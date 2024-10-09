@@ -35,23 +35,23 @@ const sitemap = [
 const socials = [
     {
         label: "GitHub",
-        href: "https://www.github.com/codewithsadee-org",
+        href: "https://github.com/subbareddy999",
     },
     {
         label: "LinkedIn",
-        href: "https://www.linkedin.com/in/codewithsadee",
+        href: "https://www.linkedin.com/in/subbareddykarri/",
     },
     {
-        label: "Twitter X",
-        href: "https://x.com/codewithsadee_",
+        label: "Leetcode",
+        href: "https://leetcode.com/u/subba9999/",
     },
     {
         label: "Instagram",
-        href: "https://www.instagram.com/codewithsadee",
+        href: "https://www.instagram.com/yours.srk/",
     },
     {
-        label: "CodePen",
-        href: "https://codepen.io/codewithsadee",
+        label: "Youtube",
+        href: "https://www.youtube.com/@srkcodes",
     },
 ];
 
@@ -62,7 +62,7 @@ const Footer = () => {
                 <div className="lg:grid lg:grid-cols-2">
                     <div className="mb-10">
                         <h2 className="headline-1 mb-8 lg:max-w-[12ch] reveal-up">
-                            Let&apos;s work together today!
+                            Let&apos;s team up today!
                         </h2>
                         <ButtonPrimary
                             href="mailto:subba2868@gmail.com"
@@ -111,7 +111,7 @@ const Footer = () => {
                 <div className="flex items-center justify-between pt-10 mb-8">
                     <a href="/" className="logo reveal-up">
                         <img
-                            src="/images/logo.svg"
+                            src="/images/logo.png"
                             height={40}
                             width={40}
                             alt="Logo"
@@ -119,7 +119,9 @@ const Footer = () => {
                     </a>
                     <p className="text-zinc-500 text-sm reveal-up">
                         &copy; 2024{" "}
-                        <span className="text-zinc-200">subbareddy.k</span>
+                        <span className="text-zinc-200 hover:text-zinc-50">
+                            subbareddy.k
+                        </span>
                     </p>
                 </div>
             </div>

@@ -16,11 +16,11 @@ const Hero = () => {
                     <div className="flex items-center gap-3">
                         <figure className="img-box w-9 h-9 rounded-lg">
                             <img
-                                src="/images/avatar-1.jpg"
+                                src="/images/small.jpg"
                                 width={40}
                                 height={40}
                                 alt="subbareddyk"
-                                className="img-cover"
+                                className="img-cover scale-125"
                             />
                         </figure>
                         <div className="flex items-center gap-1.5 text-zinc-400 text-sm tracking-wide">
@@ -46,11 +46,11 @@ const Hero = () => {
                 <div className="hidden lg:block">
                     <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] overflow-hidden">
                         <img
-                            src="/images/hero-banner.png"
+                            src="/images/hero.png"
                             width={656}
                             height={800}
                             alt="subbareddyk"
-                            className="w-full"
+                            className="w-full scale-110 drop-shadow-2xl relative top-24"
                         />
                     </figure>
                 </div>

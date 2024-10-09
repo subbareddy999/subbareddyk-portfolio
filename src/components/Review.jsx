@@ -24,45 +24,45 @@ import ReviewCard from "./ReviewCard";
 const reviews = [
     {
         content:
-            "Exceptional web development! Delivered a seamless, responsive site with clean code and great UX.",
+            "I'm absolutely blown away by your work! The site is stunning and so easy to navigate. I can't recommend you enough!",
         name: "Sophia Ramirez",
         imgSrc: "/images/people-1.jpg",
-        company: "PixelForge",
+        company: "Freelance Designer",
     },
     {
         content:
-            "Impressive work! Fast loading times, intuitive design, and flawless backend integration. Highly recommend.",
+            "Working with you was such a breath of fresh air! You delivered everything so quickly and with such attention to detail. I'm truly impressed!",
         name: "Ethan Caldwell",
         imgSrc: "/images/people-2.jpg",
-        company: "NexaWave",
+        company: "Tech Innovator",
     },
     {
         content:
-            "Outstanding developer! Built a robust site with perfect functionality. Efficient and detail-oriented.",
+            "You are incredibly talented! The website you built is not only functional but also looks amazing. I’m thrilled with the result!",
         name: "Liam Bennett",
         imgSrc: "/images/people-3.jpg",
-        company: "CodeCraft",
+        company: "Startup Founder",
     },
     {
         content:
-            "Creative and skilled! Produced a modern, user-friendly site that exceeded expectations. Great communication.",
+            "Your creativity shines through in every aspect of the project! I’m so happy with how it turned out. You really exceeded my expectations!",
         name: "Noah Williams",
         imgSrc: "/images/people-4.jpg",
-        company: "BrightWeb",
+        company: "Creative Agency",
     },
     {
         content:
-            "Professional work! Delivered on time, with a polished design and smooth user experience. Top-notch developer.",
+            "I’m so impressed by your professionalism! The final product is polished and user-friendly. I can’t wait to work together again!",
         name: "Ava Thompson",
         imgSrc: "/images/people-5.jpg",
-        company: "TechMosaic",
+        company: "Marketing Specialist",
     },
     {
         content:
-            "Excellent project execution! High-quality code, responsive design, and exceptional problem-solving skills.",
+            "Your dedication to quality is evident! The way you tackled challenges and brought the project to life was inspiring. I wholeheartedly recommend you!",
         name: "Jonathan",
         imgSrc: "/images/people-6.jpg",
-        company: "Skyline Digital",
+        company: "Product Manager",
     },
 ];
 
