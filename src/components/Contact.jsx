@@ -5,7 +5,7 @@
 
 const socialLinks = [
     {
-        href: "https://www.github.com/codewithsadee-org",
+        href: "https://github.com/subbareddy999",
         icon: (
             <svg
                 width="24"
@@ -23,7 +23,7 @@ const socialLinks = [
         alt: "GitHub",
     },
     {
-        href: "https://www.linkedin.com/in/codewithsadee",
+        href: "https://www.linkedin.com/in/subbareddykarri/",
         icon: (
             <svg
                 width="24"
@@ -41,7 +41,7 @@ const socialLinks = [
         alt: "LinkedIn",
     },
     {
-        href: "https://x.com/codewithsadee_",
+        href: "https://x.com/_subbareddyk",
         icon: (
             <svg
                 width="24"
@@ -59,7 +59,7 @@ const socialLinks = [
         alt: "Twitter X",
     },
     {
-        href: "https://www.instagram.com/codewithsadee",
+        href: "https://www.instagram.com/yours.srk/",
         icon: (
             <svg
                 width="25"
