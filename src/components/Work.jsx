@@ -10,6 +10,12 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
+        imgSrc: "/images/resumeanalyzer.png",
+        title: "AI Resume Analyzer",
+        tags: ["AI", "Gemini", "Resume Parsing", "NLP"],
+        projectLink: "https://resume-analyzer-fawn-gamma.vercel.app/",
+    },
+    {
         imgSrc: "/images/instashare.svg",
         title: "InstaShare App",
         tags: ["Social Media", "API", "Authentication"],
@@ -32,12 +38,6 @@ const works = [
         title: "NxtWatch",
         tags: ["YouTube Clone", "Dark/Light Mode", "Responsive Design"],
         projectLink: "https://subbanxtwatch.ccbp.tech/",
-    },
-    {
-        imgSrc: "/images/portfolio.svg",
-        title: "Personal Portfolio",
-        tags: ["Web Design", "Development", "React", "Responsive Design"],
-        projectLink: "",
     },
     {
         imgSrc: "/images/workinprogress.svg",
