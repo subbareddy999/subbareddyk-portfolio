@@ -43,7 +43,7 @@ const socials = [
     },
     {
         label: "Leetcode",
-        href: "https://leetcode.com/u/subba9999/",
+        href: "https://leetcode.com/u/subba999/",
     },
     {
         label: "Instagram",
